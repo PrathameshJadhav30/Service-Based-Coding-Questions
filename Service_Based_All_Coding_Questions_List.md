@@ -31,7 +31,7 @@ Branch: **Artificial Intelligence and Data Science Engineering**
 - Find maximum and minimum element
 - Check for duplicates
 - Remove duplicates
-- Sort the array (Bubble/Selection/Insertion)
+- Sort the array 
 - Reverse the array
 - Rotate the array (Left/Right)
 - Find the second largest element
