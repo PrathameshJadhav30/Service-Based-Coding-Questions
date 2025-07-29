@@ -39,14 +39,6 @@ Branch: **Artificial Intelligence and Data Science Engineering**
 - Find the frequency of each element
 - Merge two arrays
 
-## 🔹 Pattern Printing
-- Right triangle star pattern
-- Pyramid star pattern
-- Inverted triangle
-- Number triangle
-- Floyd’s triangle
-- Pascal’s triangle
-- Diamond pattern
 
 ## 🔹 Logic/Mathematical Puzzles
 - Print prime numbers in a range

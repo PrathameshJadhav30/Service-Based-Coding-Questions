@@ -53,17 +53,6 @@ This repository contains categorized coding problems frequently asked in **servi
 
 ---
 
-## 🔹 Pattern Printing
-
-- ✅ Right triangle star pattern  
-- ✅ Pyramid star pattern  
-- ✅ Inverted triangle  
-- ✅ Number triangle  
-- ✅ Floyd’s triangle  
-- ✅ Pascal’s triangle  
-- ✅ Diamond pattern  
-
----
 
 ## 🔹 Logic/Mathematical Puzzles
 
