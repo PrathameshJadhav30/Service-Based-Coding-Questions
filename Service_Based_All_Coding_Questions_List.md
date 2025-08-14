@@ -63,15 +63,6 @@ Branch: **Artificial Intelligence and Data Science Engineering**
 - Print Nth prime number
 - Find frequency of digits in a number
 
-## 🔹 Data Structure & Algorithm (Basic Level)
-- Implement Stack/Queue using Array
-- Implement Linked List (basic operations)
-- Linear Search and Binary Search
-- Sorting Algorithms – Bubble, Insertion, Selection
-- Recursion – factorial, fibonacci
-- Find duplicate in array using map or set
-- Use of HashMap / Set for frequency/counting
-
 ## 🔹 String and Array Combined
 - Check if two strings are rotations
 - Longest common prefix
